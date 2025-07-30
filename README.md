@@ -11,3 +11,5 @@ This dashboard visualizes key sales metrics and business performance indicators 
 | **Sum of Discount** | **1.56K**   | Total value of discounts given. Important to assess promotional impact.                                               |
 | **Sum of Quantity** | **38K**     | Total number of items sold across all categories/regions. Good volume figure.                                         |
 
+
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/508226e3-baa3-40d2-892e-f49b4caaed02" />
