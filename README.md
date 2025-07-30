@@ -1,7 +1,7 @@
 # SALES-REPORT-FOR-YEAR-2024
-This dashboard visualizes key sales metrics and business performance indicators for the year 2024, leveraging Power BI for interactive and insightful reporting. It is structured to monitor the sum of sales, profits, discounts, quantity sold, **and** identify customer behavior, segment performance, and city-based sales distribution.
+This dashboard visualizes key sales metrics and business performance indicators for the year 2024, leveraging Power BI for interactive and insightful reporting. It is structured to monitor the sum of sales, profits, discounts, quantity sold, and identify customer behavior, segment performance, and city-based sales distribution.
 
-## SECTION-BY-SECTION ANALYSIS
+**SECTION-BY-SECTION ANALYSIS**
 
 | Metric              | Value       | Interpretation                                                                                                        |
 | ------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------- |
