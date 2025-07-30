@@ -10,3 +10,4 @@ This dashboard visualizes key sales metrics and business performance indicators 
 | **Sum of Year**     | **4M**      | Possibly the aggregated time-related metric (e.g., date fields), though ambiguous — needs clarification.              |
 | **Sum of Discount** | **1.56K**   | Total value of discounts given. Important to assess promotional impact.                                               |
 | **Sum of Quantity** | **38K**     | Total number of items sold across all categories/regions. Good volume figure.                                         |
+
